@@ -1,0 +1,4 @@
+# Never let the oracle solution or the leaked hint into the agent image.
+solution_hint.py
+solve.py
+solve.sh
